@@ -7,6 +7,7 @@
 ### As a person
 I'm a second year student at the **Univeristy of California, San Diego** *(UCSD)* pursuing a **_Computer Science_, BS** degree and possibly a minor in ***Business***. I was born in *Boston, MA* but lived in *San Diego, CA* for most of my life. In my freetime, I like to cook, go to the beach and hang out with friends ~~unless they want to go hiking yuck~~. Although I'm only 20 and have many more years ahead of me, I like to thik of the quote:
 > Here I am, I've come so far
+> 
 > -- <cite>Elsa from Frozen 2
 
 ### As a programmer
